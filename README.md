@@ -3,10 +3,10 @@
 <img src="https://github.com/asdw111esa/5/blob/main/Surname-Classification-with-RNNs.png" alt="图片描述" width = "800" height = "图片长度" />
 
 ## Model1_Unconditioned_Surname_Generation截图
-<img src="https://github.com/changhedong/-/blob/master/%E5%9B%BE/L.png" alt="图片描述" width = "800" height = "图片长度" />
+<img src="https://github.com/asdw111esa/5/blob/main/Model1.png" alt="图片描述" width = "800" height = "图片长度" />
 
 ## Model2_Conditioned_Surname_Generation截图
-<img src="https://github.com/changhedong/-/blob/master/%E5%9B%BE/U.png" alt="图片描述" width = "800" height = "图片长度" />
+<img src="https://github.com/asdw111esa/5/blob/main/Model2.png" alt="图片描述" width = "800" height = "图片长度" />
 
 ## 题目
 ①两个模型的核心差异体现在什么机制上？
