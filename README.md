@@ -1,7 +1,7 @@
 # RNN
 ## Surname-Classification-with-RNNs截图
 
-![surname](../https://github.com/asdw111esa/tupian/blob/main/Surname-Classification-with-RNNs.png) 
+![surname](../https://github.com/asdw111esa/5/blob/main/Surname-Classification-with-RNNs.png) 
 
 ![surname1](../images/Surname-Classification-with-RNNs(1).png) 
 
