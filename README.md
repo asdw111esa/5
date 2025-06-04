@@ -1,34 +1,29 @@
 # RNN
 ## Surname-Classification-with-RNNs截图
-
-![surname](../https://github.com/asdw111esa/5/blob/main/Surname-Classification-with-RNNs.png) 
-
-![surname1](../images/https://github.com/asdw111esa/5/blob/main/Surname-Classification-with-RNNs.png) 
+<img src="https://github.com/asdw111esa/5/blob/main/Surname-Classification-with-RNNs.png" alt="图片描述" width = "800" height = "图片长度" />
 
 ## Model1_Unconditioned_Surname_Generation截图
-![model1](../images/Model1.png)
+<img src="https://github.com/changhedong/-/blob/master/%E5%9B%BE/L.png" alt="图片描述" width = "800" height = "图片长度" />
 
 ## Model2_Conditioned_Surname_Generation截图
-![model2](../images/Model2.png)
-
-![image3](../images/model3.png)
+<img src="https://github.com/changhedong/-/blob/master/%E5%9B%BE/U.png" alt="图片描述" width = "800" height = "图片长度" />
 
 ## 题目
-### 两个模型的核心差异体现在什么机制上？
+①两个模型的核心差异体现在什么机制上？
 
 B. 是否考虑国家信息作为生成条件
 
 
-### 在条件生成模型中，国家信息通过什么方式影响生成过程？
+② 在条件生成模型中，国家信息通过什么方式影响生成过程？
 
 B. 作为GRU的初始隐藏状态
 
 
-### 文件2中新增的nation_emb层的主要作用是：
+③ 文件2中新增的nation_emb层的主要作用是：
 
 B. 将国家标签转换为隐藏状态初始化向量
 
 
-### 对比两个文件的sample_from_model函数，文件2新增了哪个关键参数？
+④ 对比两个文件的sample_from_model函数，文件2新增了哪个关键参数？
 
 B. nationalities
