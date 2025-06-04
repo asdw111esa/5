@@ -3,7 +3,7 @@
 
 ![surname](../https://github.com/asdw111esa/5/blob/main/Surname-Classification-with-RNNs.png) 
 
-![surname1](../images/Surname-Classification-with-RNNs(1).png) 
+![surname1](../images/https://github.com/asdw111esa/5/blob/main/Surname-Classification-with-RNNs.png) 
 
 ## Model1_Unconditioned_Surname_Generation截图
 ![model1](../images/Model1.png)
